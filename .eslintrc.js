@@ -31,6 +31,9 @@ module.exports = {
     'linebreak-style': 'off',
     'react/function-component-definition': 'off',
     'no-plusplus': 'off',
+    'default-param-last': 'off',
+    '@typescript-eslint/default-param-last': 'off',
+    'react-hooks/exhaustive-deps': 'warn',
     'import/prefer-default-export': 'off',
     'prettier/prettier': [
       'error',
